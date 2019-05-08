@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Austin Casteel
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lead Maintainer & Web Development
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Project Naomi
+  url: "https://projectnaomi.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Experienced in the automotive industry with a demonstrated history. Maintainer of the Naomi Project vocal assistant. Skilled in AutoCAD, Autodesk Inventor, CAD & CAM, and Quality Assurance.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- CADD Development
+- Astronautical Engineering
+- Artificial Intelligence Assistance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Diploma in CAD/CADD Technology
+    institution: Penn Foster
+    year: 2019
+  - course: High School Diploma in Pre-Engineering
+    institution: Lafayette High School
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,18 +44,21 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/AustinBCasteel
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/AustinBCasteel
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/austincasteel
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/austincasteel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

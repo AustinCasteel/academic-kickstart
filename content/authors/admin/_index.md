@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lead Maintainer & Web Development
+role: Lead Maintainer & WebDevelopment
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   - course: Diploma in CAD/CADD Technology
     institution: Penn Foster
     year: 2019
-  - course: High School Diploma in Pre-Engineering
+  - course: HS Diploma in Pre-Engineering
     institution: Lafayette High School
     year: 2015
 
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+TEST Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

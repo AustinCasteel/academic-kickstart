@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Technology Student Association"
   url = "https://tsaweb.org/"
   certificate_url = ""
-  date_start = "Aug 2011"
-  date_end = "May 2015"
+  date_start = ""
+  date_end = ""
   description = """
   Participated in:
   Computer-Aided Design (CAD), Engineering Participants use complex computer graphic skills, tools, and processes to develop three-dimensional representations of engineering subjects such as a machine part, tool, device, or manufactured product.

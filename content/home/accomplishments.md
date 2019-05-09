@@ -19,33 +19,78 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "PLTW"
-  organization_url = "https://www.pltw.org/"
-  title = "Civil Engineering and Architecture"
-  url = ""
+  organization = "SGAC"
+  organization_url = "https://spacegeneration.org/"
+  title = "Space Generation Advisory Council"
+  url = "https://spacegeneration.org/"
   certificate_url = ""
-  date_start = ""
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  organization = "TSA"
+  organization_url = "https://tsaweb.org/"
+  title = "Technology Student Association"
+  url = "https://tsaweb.org/"
+  certificate_url = ""
+  date_start = "2011-08-12"
+  date_end = "2015-05-21"
+  description = """
+  Participated in:
+  Computer-Aided Design (CAD), Engineering Participants use complex computer graphic skills, tools, and processes to develop three-dimensional representations of engineering subjects such as a machine part, tool, device, or manufactured product.
+
+  Vex Robotics, Participants compete in a VEX Robotics Competition, presented by the Robotics Education & Competition Foundation. The largest & fastest-growing educational robotics competition for middle school through college-aged students in the world.
+  """
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "KOSSA"
+  organization_url = "https://education.ky.gov/CTE/"
+  title = "Kentucky Communications Skill Standards"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2015-05-10"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "KOSSA"
+  organization_url = "https://education.ky.gov/CTE/"
+  title = "Kentucky Engineering and Technology Skill Standards"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-10"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "PLTW"
+  organization_url = "https://www.pltw.org/"
+  title = "Civil Engineering and Architecture"
+  url = "https://www.pltw.org/our-programs/pltw-engineering-curriculum#curriculum-4"
+  certificate_url = ""
+  date_start = "2014-08-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "PLTW"
+  organization_url = "https://www.pltw.org/"
+  title = "Introduction to Engineering Design"
+  url = "https://www.pltw.org/our-programs/pltw-engineering-curriculum#curriculum-1"
+  certificate_url = ""
+  date_start = "2012-08-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "PLTW"
+  organization_url = "https://www.pltw.org/"
+  title = "Principles of Engineering"
+  url = "https://www.pltw.org/our-programs/pltw-engineering-curriculum#curriculum-2"
+  certificate_url = ""
+  date_start = "2013-08-12"
+  date_end = ""
   description = ""
 
 +++

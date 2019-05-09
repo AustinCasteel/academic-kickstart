@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Space Generation Advisory Council"
   url = "https://spacegeneration.org/"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = ""
   date_end = ""
   description = ""
 

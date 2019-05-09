@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Space Generation Advisory Council"
   url = "https://spacegeneration.org/"
   certificate_url = ""
-  date_start = "Jan 2019"
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
 
   Vex Robotics, Participants compete in a VEX Robotics Competition, presented by the Robotics Education & Competition Foundation. The largest & fastest-growing educational robotics competition for middle school through college-aged students in the world.
   """
-  
+
 [[item]]
   organization = "KOSSA"
   organization_url = "https://education.ky.gov/CTE/"

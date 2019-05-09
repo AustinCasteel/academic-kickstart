@@ -9,6 +9,5 @@ date: "2018-07-27T00:00:00Z"
 external_link: https://projectnaomi.com
 
 image:
-  caption: 
-  focal_point: Smart
+  focal_point: Center
 ---

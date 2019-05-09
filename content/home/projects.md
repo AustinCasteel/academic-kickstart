@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "CADD"
-    tag = "CADD"
-  
-  [[content.filter_button]]
     name = "Artificial Intelligence"
     tag = "Artificial Intelligence"
+  
+  [[content.filter_button]]
+    name = "CADD"
+    tag = "CADD"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Space Generation Advisory Council"
   url = "https://spacegeneration.org/"
   certificate_url = ""
-  date_start = "2019-01-01"
+  date_start = "Jan 2019"
   date_end = ""
   description = ""
 
@@ -34,14 +34,15 @@ date_format = "Jan 2006"
   title = "Technology Student Association"
   url = "https://tsaweb.org/"
   certificate_url = ""
-  date_start = "2011-08-09"
-  date_end = "2015-05-21"
+  date_start = "Aug 2011"
+  date_end = "May 2015"
   description = """
   Participated in:
   Computer-Aided Design (CAD), Engineering Participants use complex computer graphic skills, tools, and processes to develop three-dimensional representations of engineering subjects such as a machine part, tool, device, or manufactured product.
 
   Vex Robotics, Participants compete in a VEX Robotics Competition, presented by the Robotics Education & Competition Foundation. The largest & fastest-growing educational robotics competition for middle school through college-aged students in the world.
   """
+  
 [[item]]
   organization = "KOSSA"
   organization_url = "https://education.ky.gov/CTE/"
